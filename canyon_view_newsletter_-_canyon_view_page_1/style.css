@@ -1,0 +1,644 @@
+.canyon-view-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.canyon-view-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3391px;
+  position: relative;
+}
+
+.canyon-view-page .group {
+  position: absolute;
+  width: 2219px;
+  height: 231px;
+  top: 244px;
+  left: -2215px;
+}
+
+.canyon-view-page .newsletters-podcast {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: #000000;
+  font-size: var(--h3-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.canyon-view-page .news-mails {
+  position: absolute;
+  top: 189px;
+  left: 154px;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: #000000;
+  font-size: var(--h3-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.canyon-view-page .overlap {
+  position: absolute;
+  width: 1364px;
+  height: 90px;
+  top: 3257px;
+  left: 33px;
+}
+
+.canyon-view-page .privacy-policy {
+  position: absolute;
+  height: 18px;
+  top: 63px;
+  left: 14px;
+  font-family: var(--subtitle-2-font-family);
+  font-weight: var(--subtitle-2-font-weight);
+  color: #ffffffde;
+  font-size: var(--subtitle-2-font-size);
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  white-space: nowrap;
+  font-style: var(--subtitle-2-font-style);
+}
+
+.canyon-view-page .vbox {
+  position: absolute;
+  width: 176px;
+  height: 34px;
+  top: 56px;
+  left: 736px;
+}
+
+.canyon-view-page .newsletter-wrapper {
+  position: absolute;
+  width: 212px;
+  height: 32px;
+  top: 57px;
+  left: 1151px;
+}
+
+.canyon-view-page .newsletter {
+  position: absolute;
+  top: 1px;
+  left: 38px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: var(--background-and-disabled-background-for-buttons);
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.canyon-view-page .rectangle {
+  position: absolute;
+  width: 1364px;
+  height: 90px;
+  top: 0;
+  left: 0;
+}
+
+.canyon-view-page .text-wrapper {
+  position: absolute;
+  height: 18px;
+  top: 35px;
+  left: 30px;
+  font-family: var(--subtitle-2-font-family);
+  font-weight: var(--subtitle-2-font-weight);
+  color: #ffffffde;
+  font-size: var(--subtitle-2-font-size);
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  white-space: nowrap;
+  font-style: var(--subtitle-2-font-style);
+}
+
+.canyon-view-page .div-wrapper {
+  position: absolute;
+  width: 212px;
+  height: 32px;
+  top: 29px;
+  left: 1146px;
+}
+
+.canyon-view-page .overlap-group {
+  position: absolute;
+  width: 1406px;
+  height: 3053px;
+  top: 182px;
+  left: 33px;
+}
+
+.canyon-view-page .group-2 {
+  position: absolute;
+  width: 1406px;
+  height: 2872px;
+  top: 0;
+  left: 0;
+}
+
+.canyon-view-page .overlap-2 {
+  position: absolute;
+  width: 662px;
+  height: 194px;
+  top: 496px;
+  left: 696px;
+}
+
+.canyon-view-page .image {
+  width: 153px;
+  height: 194px;
+  top: 0;
+  left: 509px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.canyon-view-page .p {
+  position: absolute;
+  width: 564px;
+  top: 22px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 30px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+}
+
+.canyon-view-page .text-wrapper-2 {
+  position: absolute;
+  width: 555px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.canyon-view-page .tips-tricks {
+  position: absolute;
+  width: 456px;
+  top: 0;
+  left: 687px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.canyon-view-page .element-best-in-state {
+  position: absolute;
+  width: 596px;
+  top: 554px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .new-in-newsletter {
+  position: absolute;
+  width: 690px;
+  top: 104px;
+  left: 668px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.canyon-view-page .overlap-3 {
+  position: absolute;
+  width: 690px;
+  height: 670px;
+  top: 2073px;
+  left: 682px;
+}
+
+.canyon-view-page .text-wrapper-3 {
+  position: absolute;
+  width: 682px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .whether-you-re {
+  position: absolute;
+  width: 682px;
+  top: 158px;
+  left: 8px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 32px;
+  letter-spacing: 0.10px;
+  line-height: 30px;
+}
+
+.canyon-view-page .span {
+  letter-spacing: 0.03px;
+}
+
+.canyon-view-page .text-wrapper-4 {
+  font-weight: 800;
+  letter-spacing: 0.03px;
+}
+
+.canyon-view-page .element-tips-and-tricks {
+  position: absolute;
+  width: 682px;
+  top: 394px;
+  left: 696px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .text-wrapper-5 {
+  position: absolute;
+  width: 682px;
+  top: 774px;
+  left: 696px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .text-wrapper-6 {
+  position: absolute;
+  width: 604px;
+  top: 655px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 30px;
+  letter-spacing: 0.10px;
+  line-height: 30px;
+}
+
+.canyon-view-page .canyon-view {
+  position: absolute;
+  width: 690px;
+  top: 183px;
+  left: 668px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 30px;
+  letter-spacing: 0.10px;
+  line-height: 28px;
+}
+
+.canyon-view-page .overlap-4 {
+  position: absolute;
+  width: 655px;
+  height: 451px;
+  top: 1484px;
+  left: 3px;
+}
+
+.canyon-view-page .back-to-school {
+  position: absolute;
+  width: 624px;
+  top: 71px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 32px;
+  letter-spacing: 0.10px;
+  line-height: 30px;
+}
+
+.canyon-view-page .text-wrapper-7 {
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 0.03px;
+}
+
+.canyon-view-page .text-wrapper-8 {
+  position: absolute;
+  width: 655px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .summer-is-a-season {
+  position: absolute;
+  width: 682px;
+  top: 861px;
+  left: 676px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 30px;
+  letter-spacing: 0.10px;
+  line-height: 28px;
+}
+
+.canyon-view-page .overlap-group-wrapper {
+  position: absolute;
+  width: 624px;
+  height: 526px;
+  top: 903px;
+  left: 0;
+}
+
+.canyon-view-page .overlap-group-2 {
+  position: relative;
+  width: 620px;
+  height: 526px;
+}
+
+.canyon-view-page .new-service-products {
+  position: absolute;
+  width: 620px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .we-re-always-working {
+  position: absolute;
+  width: 620px;
+  top: 162px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 32px;
+  letter-spacing: 0.10px;
+  line-height: 28px;
+}
+
+.canyon-view-page .group-3 {
+  position: absolute;
+  width: 671px;
+  height: 555px;
+  top: 2317px;
+  left: 6px;
+}
+
+.canyon-view-page .text-wrapper-9 {
+  position: absolute;
+  width: 667px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .meet-sarah-your {
+  position: absolute;
+  width: 667px;
+  top: 159px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 32px;
+  letter-spacing: 0.10px;
+  line-height: 30px;
+}
+
+.canyon-view-page .text-wrapper-10 {
+  font-weight: 600;
+  letter-spacing: 0.03px;
+}
+
+.canyon-view-page .img {
+  position: absolute;
+  width: 620px;
+  height: 11px;
+  top: 855px;
+  left: 0;
+}
+
+.canyon-view-page .rectangle-2 {
+  position: absolute;
+  width: 508px;
+  height: 11px;
+  top: 64px;
+  left: 0;
+}
+
+.canyon-view-page .rectangle-3 {
+  position: absolute;
+  width: 620px;
+  height: 11px;
+  top: 1447px;
+  left: 3px;
+}
+
+.canyon-view-page .rectangle-4 {
+  position: absolute;
+  width: 331px;
+  height: 11px;
+  top: 61px;
+  left: 687px;
+}
+
+.canyon-view-page .rectangle-5 {
+  position: absolute;
+  width: 691px;
+  height: 11px;
+  top: 344px;
+  left: 687px;
+}
+
+.canyon-view-page .rectangle-6 {
+  position: absolute;
+  width: 691px;
+  height: 11px;
+  top: 724px;
+  left: 687px;
+}
+
+.canyon-view-page .rectangle-7 {
+  position: absolute;
+  width: 691px;
+  height: 11px;
+  top: 1317px;
+  left: 687px;
+}
+
+.canyon-view-page .rectangle-8 {
+  position: absolute;
+  width: 620px;
+  height: 11px;
+  top: 2257px;
+  left: 3px;
+}
+
+.canyon-view-page .rectangle-9 {
+  position: absolute;
+  width: 195px;
+  height: 59px;
+  top: 603px;
+  left: 935px;
+  background-color: #e91d2c;
+  border-radius: 36px;
+  border: 0px none;
+  border-color: var(--secondary-text);
+}
+
+.canyon-view-page .text-wrapper-11 {
+  position: absolute;
+  width: 104px;
+  height: 18px;
+  top: 622px;
+  left: 981px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.canyon-view-page .element-brilliant {
+  position: absolute;
+  width: 682px;
+  top: 1357px;
+  left: 687px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black-100);
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.10px;
+  line-height: 42px;
+}
+
+.canyon-view-page .fraud-and-scams-are {
+  position: absolute;
+  width: 682px;
+  top: 1470px;
+  left: 687px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black-100);
+  font-size: 32px;
+  letter-spacing: 0.10px;
+  line-height: 30px;
+}
+
+.canyon-view-page .chatgpt-image-may {
+  position: absolute;
+  width: 398px;
+  height: 398px;
+  top: 112px;
+  left: 110px;
+  object-fit: cover;
+}
+
+.canyon-view-page .image-2 {
+  width: 205px;
+  height: 205px;
+  top: 2052px;
+  left: 208px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.canyon-view-page .rectangle-10 {
+  position: absolute;
+  width: 691px;
+  height: 11px;
+  top: 2001px;
+  left: 671px;
+}
+
+.canyon-view-page .chatgpt-image-may-2 {
+  position: absolute;
+  width: 261px;
+  height: 281px;
+  top: 2772px;
+  left: 897px;
+  object-fit: cover;
+}
+
+.canyon-view-page .image-3 {
+  width: 1040px;
+  height: 63px;
+  top: 50px;
+  left: 209px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.canyon-view-page .rectangle-11 {
+  position: absolute;
+  width: 1378px;
+  height: 11px;
+  top: 125px;
+  left: 33px;
+}

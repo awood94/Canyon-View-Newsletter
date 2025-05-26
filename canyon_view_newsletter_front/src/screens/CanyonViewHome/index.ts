@@ -1,0 +1,1 @@
+export { CanyonViewHome } from "./CanyonViewHome";
